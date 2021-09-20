@@ -3,7 +3,7 @@ import React from "react";
 export default function Header() {
     return (
         <>
-        <h1>React-Redux</h1>
+        <h1>Redux</h1>
         </>
     )
 }
