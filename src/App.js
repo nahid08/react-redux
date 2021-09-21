@@ -2,6 +2,7 @@ import './App.css';
 import Plus from './components/plus';
 import Minus from './components/minus';
 import Header from './components/header';
+import Power from './components/power';
 
 function App(props) {
 
@@ -12,6 +13,7 @@ function App(props) {
     <Header/>
     <Plus/>
     <Minus/>
+    <Power/>
     </>
   );
 }
